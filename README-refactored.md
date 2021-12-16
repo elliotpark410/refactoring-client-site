@@ -1,21 +1,45 @@
-# refactoring-client-site
+# Refactoring Client Site
 
-Link to website: https://elliotpark410.github.io/refactoring-client-site/
+Horiseon Marketing agency would like to refactor their website to make it more accessible to optimize for search engines and allow easier access for people with disabilities. 
 
-Installation: Google Chrome required
+## Getting Started
 
-What: refactoring client site for marketing agency
+All you need is internet and Google Chrome web browser. 
 
-Why: to make it more accessible to optimize for search engines and allow people with disabilites to access website with assistive technologies
+### Prerequisites
 
-How: 
-* Understand clearly the webpage purpose and content
-* Research and implement: 
-  * code refactoring
-  * accessiblity standards
-  * semantic HTML elements
-  * logical structure for HTML elements
-  * alt attributes for icon and image elements
-  * sequential order for heading attributes
-  * creating a title in title element
+Google Chrome
 
+```
+[Google Chrome Download](https://www.google.com/chrome/)
+```
+
+### Installing
+
+No installation required
+
+
+## Built With
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## Deployed Link
+
+* [Client-site-refactored](https://elliotpark410.github.io/refactoring-client-site/)
+
+
+## Authors
+
+Elliot Park
+
+- [Link to Github](https://github.com/elliotpark410)
+- [Link to LinkedIn](https://www.linkedin.com/in/elliot-park/)
+
+## License
+
+This project is licensed under the UC Berkeley Extension License 
+
+## Acknowledgments
+
+* Hat tip to anyone Jerome Chennette, Daniel Chicchon, and Manuel Nunes
